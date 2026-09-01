@@ -1,4 +1,5 @@
 # Qualtrics Wellbeing Validation
+[![Tests](https://github.com/oyetzmedic/qualtrics-wellbeing-validation/actions/workflows/tests.yml/badge.svg)](https://github.com/oyetzmedic/qualtrics-wellbeing-validation/actions/workflows/tests.yml)
 
 
 
