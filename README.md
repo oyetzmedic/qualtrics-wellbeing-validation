@@ -11,9 +11,15 @@ The project demonstrates practical data-quality engineering around real survey-e
 
 
 
+
+## Survey design
+
+The survey was built in Qualtrics as a wellbeing check-in. It includes consent, age and wellbeing questions, five agreement-scale items, numeric sleep and exercise questions, and a conditional exercise-barrier question that is shown when the respondent reports zero exercise days.
+
+Raw survey exports are not committed to this repository. The repository contains validation code and synthetic test data only.
+
+
 ## What the pipeline does
-
-
 
 `validate_qualtrics.py`:
 
